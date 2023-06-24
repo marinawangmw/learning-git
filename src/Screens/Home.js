@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 const Home = () => {
     return (
         <View>
-            <Text>Welcome to my world!</Text>
+            <Text>Marina es la mejor!</Text>
         </View>
     );
 };
