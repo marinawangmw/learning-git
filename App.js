@@ -6,6 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Home />
+      <Text>Add your own homepage!</Text>
       <StatusBar style="auto" />
     </View>
   );
